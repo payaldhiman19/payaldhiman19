@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm passionate about coding, solving problems, and constan
 ---
 
 ### 💡 About Me
-- 🔥 **Languages**: C++, Java, Python, PHP
+- 🔥 **Languages**: C++, Java, Python
 - 🗄️ **Databases**: MongoDB, MySQL
 - 🌐 **Web Development**: 
   - 🎨 Frontend: HTML, CSS, JavaScript, React
