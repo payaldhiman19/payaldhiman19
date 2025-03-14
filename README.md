@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Payal 💻
+# Hey there! 👋 I'm Payal 
 
 Welcome to my GitHub! I'm passionate about coding, solving problems, and constantly exploring new technologies. ✨
 
